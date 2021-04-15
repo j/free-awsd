@@ -1,0 +1,25 @@
+.DS_Store
+
+# KiCad
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+*-cache.lib
+*-rescue.lib
+_saved_*.sch
+fp-info-cache
+*.net
+*.dsn
+*.ses
+*.xml
+*.csv
+
